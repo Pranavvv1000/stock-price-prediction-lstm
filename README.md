@@ -1,3 +1,4 @@
+**Stock Price Prediction Using LSTM**
 🔹 1. Objective
 Build an LSTM (Long Short-Term Memory) deep learning model that:
 
